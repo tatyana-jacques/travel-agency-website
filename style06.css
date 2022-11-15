@@ -1,0 +1,144 @@
+body{
+    margin:0px;
+    display:flex;
+    flex-direction: column;
+    width:100%;
+    min-height: 100vh;
+  
+   
+    
+}
+header{
+    display:flex;
+    flex-wrap:wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 40px;
+
+    background-color: rgb(39, 0, 145);
+    width:100%;
+}
+.cabeca{
+    width:25%;
+}
+a{
+    color:white;
+    text-decoration: none;
+    font-size: 20px;
+    margin:10px;
+    
+
+}
+h1{
+    margin:0px;
+    color: white;
+    width: 50%;
+}
+
+h2{
+    font-size: 30px;
+}
+P{
+    margin:0px;
+    font-size: 20px;
+}
+spam{
+    font-size: 25px;
+}
+
+
+main{
+    display:flex;
+    justify-content: space-around;
+    padding-top:90px;
+    margin:0px;
+    color:rgb(39, 0, 145);
+   
+   
+}
+.container{
+   
+    border-style: solid;
+    border-color:gray;
+    border-width: 2px;
+    border-radius: 15px;
+    width:25%;
+    padding:2%;
+    margin-bottom: 100px;;
+  
+}
+.dentro {
+    display:flex;
+    flex-wrap: wrap;
+    border-style: none;
+    justify-content: space-between;
+    width:100%;
+    align-items: end;
+
+}
+
+
+input{
+    background-color: red;
+    color:white;
+    font-size: 15px;
+    border-style: none;
+    border-radius: 15px;
+    height: 40px;
+    align-items: end;
+    width:100%;
+}
+img{
+    width:100%;
+  
+}
+.end form{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.end input{
+    background-color: white;
+    border-style: solid;
+    width:13%;
+    margin:30px;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(39, 0, 145);
+}
+.end ::placeholder { 
+    color:rgb(100, 84, 143);
+
+ }
+
+ .idaVolta{
+    font-size: 25px;
+    color:rgb(39, 0, 145);
+    margin:0px;
+    padding:0px;
+ }
+
+ .idaVolta input{
+    width:60%;
+    margin-left:3px;
+    
+ }
+
+footer{
+    position: fixed;
+    bottom: 0;
+    padding:40px;
+    display:flex;
+    background-color: rgb(39, 0, 145);
+    justify-content: stretch;
+    margin:0;
+    align-items: center;
+    width:100%;
+       
+}
+.rodape{
+    width:40%;
+    color:white;
+    font-size: 15px;
+    
+}
