@@ -14,8 +14,7 @@ header{
     align-items: flex-end;
     justify-content: space-between;
     padding: 40px;
-
-    background-color: rgb(39, 0, 145);
+    background-color: rgb(15, 0, 145);
     width:100%;
 }
 .cabeca{
@@ -52,7 +51,7 @@ main{
     justify-content: space-around;
     padding-top:90px;
     margin:0px;
-    color:rgb(39, 0, 145);
+    color: rgb(15, 0, 145);
    
    
 }
@@ -104,16 +103,16 @@ img{
     margin:30px;
     align-items: center;
     font-size: 20px;
-    color: rgb(39, 0, 145);
+    color:  rgb(15, 0, 145);
 }
 .end ::placeholder { 
-    color:rgb(100, 84, 143);
+    color:rgb(84, 95, 145);
 
  }
 
  .idaVolta{
     font-size: 25px;
-    color:rgb(39, 0, 145);
+    color: rgb(15, 0, 145);
     margin:0px;
     padding:0px;
  }
@@ -129,7 +128,7 @@ footer{
     bottom: 0;
     padding:40px;
     display:flex;
-    background-color: rgb(39, 0, 145);
+    background-color:  rgb(15, 0, 145);
     justify-content: stretch;
     margin:0;
     align-items: center;
